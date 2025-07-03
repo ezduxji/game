@@ -1,0 +1,3 @@
+<view class="container">
+  <canvas id="gameCanvas" type="2d" style="width:100%;height:100vh;"></canvas>
+</view>

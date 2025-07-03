@@ -6,7 +6,7 @@
     "postcss": true,
     "minified": true
   },
-  "compileType": "game",
+  "compileType": "miniprogram",
   "libVersion": "2.25.0",
   "appid": "touristappid",
   "projectname": "hello-world"

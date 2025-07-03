@@ -1,2 +1,3 @@
 # game
-AI game test
+
+Simple AI text adventure game implemented as a WeChat Mini Program.
